@@ -1,1 +1,1 @@
-# algrithm-in-C
+# algrithm-in-C/C++
