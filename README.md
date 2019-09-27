@@ -1,1 +1,1 @@
-# algrithm-in-C-C-
+# algrithm-in-C
